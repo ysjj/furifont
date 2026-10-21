@@ -31,6 +31,7 @@
     "update:manual": "node scripts/manual/jr-stations.ts && node scripts/manual/yojijukugo.ts && node scripts/manual/japan-post.ts",
     "audit": "node scripts/audit.ts",
     "lookup": "node scripts/lookup.ts",
+    "skk": "node scripts/skk.ts",
     "override": "node scripts/override.ts"
   },
   "dependencies": {
